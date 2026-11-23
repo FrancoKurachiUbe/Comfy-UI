@@ -116,10 +116,10 @@
         "secondTabWidth": 65
       },
       "widgets_values": [
-        "A medieval stone castle on a hill, surrounded by green forests, cinematic historical illustration, dramatic cloudy sky, detailed architecture, painterly style"
+        "Semi-realistic historical-epic digital painting, visible painterly brushwork, matte finish. Wide cinematic 16:9 shot at dawn on a frosty meadow in front of the gate of Asgard, low mist. Loki, a slender man of about 35 with angular features, dark reddish hair and a contained half-smile, in dark green wool and muted black clothes, leads a young gray colt with eight legs, in two symmetrical rows of four, dark mane, steam from its breath. Odin, about 60, weathered face, long gray beard braided with white strands, right eye closed by a healed vertical scar, left eye open, wide-brimmed dark leather hat, gray-blue wool cloak with a bronze clasp, holding an ash-wood spear, steps forward and reaches for the rope. A small crowd of gods at the gate watches in astonishment. Pale cold light from the left, long shadows, frost white-gray, dark green, ochre and dark brown palette, thin gold dawn line, muted colors, fine grain, vignette, aged painted texture, atmospheric haze, single focal point, wondrous mood."
       ],
       "widgets_values_named": {
-        "value": "A medieval stone castle on a hill, surrounded by green forests, cinematic historical illustration, dramatic cloudy sky, detailed architecture, painterly style"
+        "value": "Semi-realistic historical-epic digital painting, visible painterly brushwork, matte finish. Wide cinematic 16:9 shot at dawn on a frosty meadow in front of the gate of Asgard, low mist. Loki, a slender man of about 35 with angular features, dark reddish hair and a contained half-smile, in dark green wool and muted black clothes, leads a young gray colt with eight legs, in two symmetrical rows of four, dark mane, steam from its breath. Odin, about 60, weathered face, long gray beard braided with white strands, right eye closed by a healed vertical scar, left eye open, wide-brimmed dark leather hat, gray-blue wool cloak with a bronze clasp, holding an ash-wood spear, steps forward and reaches for the rope. A small crowd of gods at the gate watches in astonishment. Pale cold light from the left, long shadows, frost white-gray, dark green, ochre and dark brown palette, thin gold dawn line, muted colors, fine grain, vignette, aged painted texture, atmospheric haze, single focal point, wondrous mood."
       }
     },
     {
@@ -233,7 +233,7 @@
         "qwen_3_4b.safetensors",
         "flux2-vae.safetensors",
         "",
-        99215032893469
+        562699044059478
       ],
       "widgets_values_named": {
         "value": 1024,
@@ -242,7 +242,7 @@
         "clip_name": "qwen_3_4b.safetensors",
         "vae_name": "flux2-vae.safetensors",
         "text": "",
-        "noise_seed": 99215032893469
+        "noise_seed": 562699044059478
       }
     },
     {
@@ -356,7 +356,7 @@
         "qwen_3_4b.safetensors",
         "flux2-vae.safetensors",
         "",
-        468807404090180
+        796992534829648
       ],
       "widgets_values_named": {
         "value": 1024,
@@ -365,15 +365,15 @@
         "clip_name": "qwen_3_4b.safetensors",
         "vae_name": "flux2-vae.safetensors",
         "text": "",
-        "noise_seed": 468807404090180
+        "noise_seed": 796992534829648
       }
     },
     {
       "id": 95,
       "type": "SaveImage",
       "pos": [
-        765.666786213013,
-        358.6666838325343
+        773.7661191750398,
+        327.42639955043103
       ],
       "size": [
         520,
@@ -470,8 +470,8 @@
           "bounding": [
             -654.6666797319973,
             583.833333604156,
-            120,
-            160
+            128,
+            188
           ]
         },
         "outputNode": {
@@ -479,8 +479,8 @@
           "bounding": [
             1295.3333202680028,
             573.833333604156,
-            120,
-            60
+            128,
+            68
           ]
         },
         "inputs": [
@@ -492,8 +492,8 @@
               158
             ],
             "pos": [
-              -554.6666797319973,
-              603.833333604156
+              -550.6666797319973,
+              607.833333604156
             ]
           },
           {
@@ -504,8 +504,8 @@
               159
             ],
             "pos": [
-              -554.6666797319973,
-              623.833333604156
+              -550.6666797319973,
+              627.833333604156
             ]
           },
           {
@@ -516,8 +516,8 @@
               160
             ],
             "pos": [
-              -554.6666797319973,
-              643.833333604156
+              -550.6666797319973,
+              647.833333604156
             ]
           },
           {
@@ -528,8 +528,8 @@
               161
             ],
             "pos": [
-              -554.6666797319973,
-              663.833333604156
+              -550.6666797319973,
+              667.833333604156
             ]
           },
           {
@@ -540,8 +540,8 @@
               162
             ],
             "pos": [
-              -554.6666797319973,
-              683.833333604156
+              -550.6666797319973,
+              687.833333604156
             ]
           },
           {
@@ -553,8 +553,8 @@
             ],
             "label": "prompt",
             "pos": [
-              -554.6666797319973,
-              703.833333604156
+              -550.6666797319973,
+              707.833333604156
             ]
           },
           {
@@ -565,8 +565,8 @@
               187
             ],
             "pos": [
-              0,
-              0
+              -550.6666797319973,
+              727.833333604156
             ]
           }
         ],
@@ -580,8 +580,8 @@
             ],
             "localized_name": "IMAGE",
             "pos": [
-              1315.3333202680028,
-              593.833333604156
+              1319.3333202680028,
+              597.833333604156
             ]
           }
         ],
@@ -2912,10 +2912,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.6493378690527345,
+      "scale": 0.5903071536843045,
       "offset": [
-        609.105189648744,
-        -62.54803651986503
+        562.798863857043,
+        44.358047365542674
       ]
     },
     "frontendVersion": "1.59.10",
