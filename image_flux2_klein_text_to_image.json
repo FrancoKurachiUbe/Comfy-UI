@@ -2911,19 +2911,19 @@
   },
   "config": {},
   "extra": {
-    "ds": {
-      "scale": 0.9506955740801121,
-      "offset": [
-        104.50650372891633,
-        -73.0019008475767
-      ]
-    },
     "frontendVersion": "1.59.10",
     "workflowRendererVersion": "LG",
     "VHS_latentpreview": false,
     "VHS_latentpreviewrate": 0,
     "VHS_MetadataImage": true,
-    "VHS_KeepIntermediate": true
+    "VHS_KeepIntermediate": true,
+    "ds": {
+      "scale": 0.7428837209302337,
+      "offset": [
+        331.31160432324,
+        86.00927725762493
+      ]
+    }
   },
   "version": 0.4
 }
