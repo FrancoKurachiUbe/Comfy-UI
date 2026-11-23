@@ -1,8 +1,8 @@
 {
   "id": "92112d97-bb64-4b44-86f2-ea5691ef8f6e",
   "revision": 0,
-  "last_node_id": 95,
-  "last_link_id": 191,
+  "last_node_id": 97,
+  "last_link_id": 194,
   "nodes": [
     {
       "id": 78,
@@ -116,10 +116,10 @@
         "secondTabWidth": 65
       },
       "widgets_values": [
-        "Semi-realistic historical-epic digital painting, visible painterly brushwork, matte finish. Wide cinematic 16:9 shot at dawn on a frosty meadow in front of the gate of Asgard, low mist. Loki, a slender man of about 35 with angular features, dark reddish hair and a contained half-smile, in dark green wool and muted black clothes, leads a young gray colt with eight legs, in two symmetrical rows of four, dark mane, steam from its breath. Odin, about 60, weathered face, long gray beard braided with white strands, right eye closed by a healed vertical scar, left eye open, wide-brimmed dark leather hat, gray-blue wool cloak with a bronze clasp, holding an ash-wood spear, steps forward and reaches for the rope. A small crowd of gods at the gate watches in astonishment. Pale cold light from the left, long shadows, frost white-gray, dark green, ochre and dark brown palette, thin gold dawn line, muted colors, fine grain, vignette, aged painted texture, atmospheric haze, single focal point, wondrous mood."
+        "Semi-realistic historical-epic digital painting. Sophisticated painterly realism with visible refined brushwork, traditional oil painting influence combined with modern cinematic concept art. Realistic human anatomy, believable proportions, expressive faces, detailed skin, hair and beard. Richly detailed wool, leather and iron textures. Matte painted surfaces, muted earthy colors, warm golden firelight contrasted with cool blue-gray shadows. Atmospheric depth, subtle volumetric lighting, cinematic composition, medium-low saturation, fine grain.\n\nMedium shot in profile of Thor, around 35 years old, very broad shoulders, thick red-brown hair and full red beard, wearing an ochre wool tunic, wide leather belt and iron bracers. Thor throws his head back and drinks desperately from an enormous iron-banded drinking horn, holding it firmly with both hands. Ale runs down his beard. His face is red and strained.\n\nInside a vast ancient Viking hall with wooden pillars, carved beams and stone flooring. Behind Thor, several enormous giants in rough wool clothing laugh at the benches. Utgard-Loki, an ancient frost giant king with pale gray-blue skin, long gray-white beard, dark fur-trimmed cloak and plain iron circlet, watches Thor with clever amused eyes.\n\nA hearth illuminates Thor with warm golden light. The giants remain in cooler gray-blue shadows. Thor occupies the left third of the composition. Three distinct depth layers, detailed foreground, softly blurred background. Serious, immersive historical epic atmosphere.\n\nWidescreen 16:9 composition."
       ],
       "widgets_values_named": {
-        "value": "Semi-realistic historical-epic digital painting, visible painterly brushwork, matte finish. Wide cinematic 16:9 shot at dawn on a frosty meadow in front of the gate of Asgard, low mist. Loki, a slender man of about 35 with angular features, dark reddish hair and a contained half-smile, in dark green wool and muted black clothes, leads a young gray colt with eight legs, in two symmetrical rows of four, dark mane, steam from its breath. Odin, about 60, weathered face, long gray beard braided with white strands, right eye closed by a healed vertical scar, left eye open, wide-brimmed dark leather hat, gray-blue wool cloak with a bronze clasp, holding an ash-wood spear, steps forward and reaches for the rope. A small crowd of gods at the gate watches in astonishment. Pale cold light from the left, long shadows, frost white-gray, dark green, ochre and dark brown palette, thin gold dawn line, muted colors, fine grain, vignette, aged painted texture, atmospheric haze, single focal point, wondrous mood."
+        "value": "Semi-realistic historical-epic digital painting. Sophisticated painterly realism with visible refined brushwork, traditional oil painting influence combined with modern cinematic concept art. Realistic human anatomy, believable proportions, expressive faces, detailed skin, hair and beard. Richly detailed wool, leather and iron textures. Matte painted surfaces, muted earthy colors, warm golden firelight contrasted with cool blue-gray shadows. Atmospheric depth, subtle volumetric lighting, cinematic composition, medium-low saturation, fine grain.\n\nMedium shot in profile of Thor, around 35 years old, very broad shoulders, thick red-brown hair and full red beard, wearing an ochre wool tunic, wide leather belt and iron bracers. Thor throws his head back and drinks desperately from an enormous iron-banded drinking horn, holding it firmly with both hands. Ale runs down his beard. His face is red and strained.\n\nInside a vast ancient Viking hall with wooden pillars, carved beams and stone flooring. Behind Thor, several enormous giants in rough wool clothing laugh at the benches. Utgard-Loki, an ancient frost giant king with pale gray-blue skin, long gray-white beard, dark fur-trimmed cloak and plain iron circlet, watches Thor with clever amused eyes.\n\nA hearth illuminates Thor with warm golden light. The giants remain in cooler gray-blue shadows. Thor occupies the left third of the composition. Three distinct depth layers, detailed foreground, softly blurred background. Serious, immersive historical epic atmosphere.\n\nWidescreen 16:9 composition."
       }
     },
     {
@@ -152,7 +152,7 @@
           "name": "IMAGE",
           "type": "IMAGE",
           "links": [
-            191
+            194
           ]
         }
       ],
@@ -227,22 +227,22 @@
         "previewExposures": []
       },
       "widgets_values": [
-        1024,
-        1024,
+        1344,
+        768,
         "flux-2-klein-base-4b.safetensors",
         "qwen_3_4b.safetensors",
         "flux2-vae.safetensors",
         "",
-        562699044059478
+        286489637531989
       ],
       "widgets_values_named": {
-        "value": 1024,
-        "value_1": 1024,
+        "value": 1344,
+        "value_1": 768,
         "unet_name": "flux-2-klein-base-4b.safetensors",
         "clip_name": "qwen_3_4b.safetensors",
         "vae_name": "flux2-vae.safetensors",
         "text": "",
-        "noise_seed": 562699044059478
+        "noise_seed": 286489637531989
       }
     },
     {
@@ -356,7 +356,7 @@
         "qwen_3_4b.safetensors",
         "flux2-vae.safetensors",
         "",
-        796992534829648
+        91871895283504
       ],
       "widgets_values_named": {
         "value": 1024,
@@ -365,15 +365,15 @@
         "clip_name": "qwen_3_4b.safetensors",
         "vae_name": "flux2-vae.safetensors",
         "text": "",
-        "noise_seed": 796992534829648
+        "noise_seed": 91871895283504
       }
     },
     {
-      "id": 95,
+      "id": 97,
       "type": "SaveImage",
       "pos": [
-        773.7661191750398,
-        327.42639955043103
+        808.7661191750398,
+        343.42639955043103
       ],
       "size": [
         520,
@@ -386,7 +386,7 @@
         {
           "name": "images",
           "type": "IMAGE",
-          "link": 191
+          "link": 194
         }
       ],
       "outputs": [
@@ -442,10 +442,10 @@
       "STRING"
     ],
     [
-      191,
+      194,
       75,
       0,
-      95,
+      97,
       0,
       "IMAGE"
     ]
@@ -458,8 +458,8 @@
         "version": 1,
         "state": {
           "lastGroupId": 8,
-          "lastNodeId": 95,
-          "lastLinkId": 191,
+          "lastNodeId": 97,
+          "lastLinkId": 194,
           "lastRerouteId": 0
         },
         "revision": 0,
@@ -1002,10 +1002,10 @@
               "secondTabWidth": 65
             },
             "widgets_values": [
-              ""
+              "cartoon, caricature, 1960s animation, anime, comic book, flat illustration, childish drawing, exaggerated proportions, oversized eyes, thick black outlines, plastic skin, glossy 3D render, video game graphics, low detail, blurry face, deformed anatomy, malformed hands, extra fingers, missing fingers, fused objects, text, letters, logos, watermark."
             ],
             "widgets_values_named": {
-              "text": ""
+              "text": "cartoon, caricature, 1960s animation, anime, comic book, flat illustration, childish drawing, exaggerated proportions, oversized eyes, thick black outlines, plastic skin, glossy 3D render, video game graphics, low detail, blurry face, deformed anatomy, malformed hands, extra fingers, missing fingers, fused objects, text, letters, logos, watermark."
             },
             "color": "#322",
             "bgcolor": "#533"
@@ -1690,8 +1690,8 @@
         "version": 1,
         "state": {
           "lastGroupId": 8,
-          "lastNodeId": 95,
-          "lastLinkId": 191,
+          "lastNodeId": 97,
+          "lastLinkId": 194,
           "lastRerouteId": 0
         },
         "revision": 0,
@@ -2912,10 +2912,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.5903071536843045,
+      "scale": 0.9506955740801121,
       "offset": [
-        562.798863857043,
-        44.358047365542674
+        104.50650372891633,
+        -73.0019008475767
       ]
     },
     "frontendVersion": "1.59.10",
